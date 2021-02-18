@@ -6,3 +6,5 @@
 파이썬 머신러닝 완벽 가이드 관련 자료는 perfect_guide_of_python_ml 폴더에서 확인 가능합니다.
 
 파이썬 머신러닝 판다스 데이터 분석 관련 자료는  pandas_data_analysis 폴더에서 확인 가능합니다.
+
+이것이 데이터 분석이다 관련 자료는 this_is_data_analysis 폴더에서 확인 가능합니다.
